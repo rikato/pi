@@ -1,1 +1,4 @@
-$('span').text('working');
+
+$( document ).ready(function() {
+    $('span').text('working');
+});
